@@ -2,13 +2,13 @@
 {
     'name': "miprimermodulo",
 
-    'summary': "Short (1 phrase/line) summary of the module's purpose",
+    'summary': "Módulo SGE",
 
     'description': """
-Long description of module's purpose
+Esto es un módulo creado para una práctica de SGE
     """,
 
-    'author': "My Company",
+    'author': "Aitor Clemente Ramos",
     'website': "https://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
